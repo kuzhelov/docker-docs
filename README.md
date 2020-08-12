@@ -46,8 +46,8 @@
     OPTIONS
         - `-i` - run container in the interactive mode
         - `-t` - creates pseudo TTY that attaches stdin and stdout. Often used in conjunction with `-i`.
+    - see also `docker attach`
         
-
 - `docker commit <container> <repository:tag>`
     - saves container to the image
 
